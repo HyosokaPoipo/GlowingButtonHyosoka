@@ -19,8 +19,14 @@
 
         />
 
-
-
+    <Button
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:id="@+id/glow_2"
+        android:background="@drawable/refresh"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        />
 
 
 </RelativeLayout>
